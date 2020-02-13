@@ -27,3 +27,8 @@ Assigned for Lojack Server:
 93[.]113[.]131[.]103
 169[.]239[.]129[.]121
 169[.]239[.]128[.]133
+
+PROBLEMATIC:
+195[.]98[.]189[.]102*
+
+* We need to take this off Shodan, it can give away our location!
